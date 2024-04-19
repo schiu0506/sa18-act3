@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "Phone",
+            "price": "1000.00",
+            "description": "This is a phone."
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name": "Book",
+            "price": "20.00",
+            "description": "This is a book."
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+            "name": "Headphone",
+            "price": "100.00",
+            "description": "This is a headphone"
+        }
+    }
+]
